@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IPL Cricket Data Analysis and Prediction</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <aside class="side">
+    <h1>IPL<br>Analyzer</h1>
+    <nav id="nav">
+      <button data-view="dash" class="on">Dashboard</button>
+      <button data-view="teams">Team analysis</button>
+      <button data-view="h2h">Head to head</button>
+      <button data-view="predict">Match predictor</button>
+      <button data-view="matches">All matches</button>
+    </nav>
+    <p class="note" id="model-note"></p>
+  </aside>
+
+  <main>
+    <div class="banner" id="banner" hidden></div>
+
+    <section class="view on" id="dash">
+      <h2>Dashboard</h2>
+      <p class="sub">Every match in the dataset, summarised.</p>
+      <div class="stats" id="dstats"></div>
+      <div class="grid">
+        <div class="panel"><h3>Matches per season</h3><div class="chart"><canvas id="c_season"></canvas></div></div>
+        <div class="panel"><h3>What toss winners choose</h3><div class="chart"><canvas id="c_toss"></canvas></div><p class="sub" id="toss-note"></p></div>
+        <div class="panel"><h3>Total wins by team</h3><div class="chart tall"><canvas id="c_wins"></canvas></div></div>
+        <div class="panel"><h3>Busiest venues</h3><div class="chart tall"><canvas id="c_venue"></canvas></div></div>
+      </div>
+      <div class="panel" style="margin-top:24px"><h3>Most player-of-the-match awards</h3><div class="table-wrap"><table id="players"></table></div></div>
+    </section>
+
+    <section class="view" id="teams">
+      <h2>Team analysis</h2>
+      <p class="sub">Season-by-season record and results against every opponent.</p>
+      <div class="controls"><label>Team<select id="t_sel"></select></label></div>
+      <div class="stats" id="tstats"></div>
+      <div class="grid">
+        <div class="panel"><h3>Played and won by season</h3><div class="chart"><canvas id="c_team"></canvas></div></div>
+        <div class="panel"><h3>Results against opponents</h3><div class="table-wrap"><table id="opp"></table></div></div>
+      </div>
+    </section>
+
+    <section class="view" id="h2h">
+      <h2>Head to head</h2>
+      <p class="sub">How two teams have fared against each other.</p>
+      <div class="controls">
+        <label>First team<select id="h_a"></select></label>
+        <label>Second team<select id="h_b"></select></label>
+        <button class="go" id="h_go">Compare teams</button>
+      </div>
+      <p class="err" id="h_err"></p>
+      <div id="h_out"></div>
+    </section>
+
+    <section class="view" id="predict">
+      <h2>Match predictor</h2>
+      <p class="sub">Set up a match and get each side's chance of winning.</p>
+      <div class="controls">
+        <label>Team 1<select id="p_a"></select></label>
+        <label>Team 2<select id="p_b"></select></label>
+        <label>Venue<select id="p_v"></select></label>
+        <label>Toss won by<select id="p_t"></select></label>
+        <label>Toss decision<select id="p_d"><option value="field">Field first</option><option value="bat">Bat first</option></select></label>
+        <button class="go" id="p_go">Predict winner</button>
+      </div>
+      <p class="err" id="p_err"></p>
+      <div id="p_out"></div>
+    </section>
+
+    <section class="view" id="matches">
+      <h2>All matches</h2>
+      <p class="sub">Filter by season or team, or search a venue or player.</p>
+      <div class="controls">
+        <label>Season<select id="m_s"></select></label>
+        <label>Team<select id="m_t"></select></label>
+        <label>Search<input id="m_q" placeholder="Venue, player or team"></label>
+        <button class="go" id="m_go">Apply filters</button>
+      </div>
+      <div class="table-wrap"><table id="m_tab"></table></div>
+      <div class="pager"><button class="go" id="m_prev">Previous</button><span id="m_pg"></span><button class="go" id="m_next">Next</button></div>
+    </section>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

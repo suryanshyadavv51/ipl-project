@@ -1,0 +1,1007 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,winner,venue,player_of_match
+1,2008,Hyderabad,2008-03-26,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 8
+2,2008,Kolkata,2008-03-27,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 2
+3,2008,Chennai,2008-03-28,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 6
+4,2008,Mohali,2008-03-29,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 11
+5,2008,Kolkata,2008-03-30,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+6,2008,Mumbai,2008-03-31,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Wankhede Stadium,SH Player 10
+7,2008,Hyderabad,2008-04-01,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 5
+8,2008,Mumbai,2008-04-02,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,Wankhede Stadium,MI Player 5
+9,2008,Jaipur,2008-04-03,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 11
+10,2008,Hyderabad,2008-04-04,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 3
+11,2008,Jaipur,2008-04-05,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+12,2008,Mumbai,2008-04-06,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 8
+13,2008,Delhi,2008-04-07,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+14,2008,Bengaluru,2008-04-08,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,Mumbai Indians,M Chinnaswamy Stadium,MI Player 5
+15,2008,Delhi,2008-04-09,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,Arun Jaitley Stadium,MI Player 7
+16,2008,Chennai,2008-04-10,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 4
+17,2008,Mohali,2008-04-11,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,PCA Stadium,SH Player 3
+18,2008,Delhi,2008-04-12,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 9
+19,2008,Bengaluru,2008-04-13,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 3
+20,2008,Mumbai,2008-04-14,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,Wankhede Stadium,PK Player 11
+21,2008,Chennai,2008-04-15,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+22,2008,Kolkata,2008-04-16,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Eden Gardens,KKR Player 4
+23,2008,Bengaluru,2008-04-17,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 1
+24,2008,Delhi,2008-04-18,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 2
+25,2008,Mohali,2008-04-19,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,PCA Stadium,PK Player 4
+26,2008,Hyderabad,2008-04-20,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 6
+27,2008,Bengaluru,2008-04-21,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 8
+28,2008,Delhi,2008-04-22,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Arun Jaitley Stadium,RR Player 3
+29,2008,Kolkata,2008-04-23,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,Eden Gardens,DC Player 8
+30,2008,Delhi,2008-04-24,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 9
+31,2008,Delhi,2008-04-25,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 1
+32,2008,Jaipur,2008-04-26,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 5
+33,2008,Mumbai,2008-04-27,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Mumbai Indians,Wankhede Stadium,MI Player 4
+34,2008,Bengaluru,2008-04-28,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 4
+35,2008,Kolkata,2008-04-29,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,Eden Gardens,PK Player 4
+36,2008,Mumbai,2008-04-30,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 1
+37,2008,Hyderabad,2008-05-01,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 4
+38,2008,Chennai,2008-05-02,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,MA Chidambaram Stadium,RCB Player 6
+39,2008,Jaipur,2008-05-03,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 8
+40,2008,Jaipur,2008-05-04,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 10
+41,2008,Bengaluru,2008-05-05,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Punjab Kings,M Chinnaswamy Stadium,PK Player 11
+42,2008,Jaipur,2008-05-06,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+43,2008,Hyderabad,2008-05-07,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+44,2008,Hyderabad,2008-05-08,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 7
+45,2008,Mohali,2008-05-09,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,PCA Stadium,KKR Player 3
+46,2008,Jaipur,2008-05-10,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 10
+47,2008,Mohali,2008-05-11,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings,PCA Stadium,PK Player 10
+48,2008,Kolkata,2008-05-12,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 9
+49,2008,Mumbai,2008-05-13,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,Wankhede Stadium,CSK Player 11
+50,2008,Mohali,2008-05-14,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,PCA Stadium,MI Player 7
+51,2008,Chennai,2008-05-15,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 5
+52,2008,Bengaluru,2008-05-16,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 10
+53,2008,Mohali,2008-05-17,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,PCA Stadium,PK Player 3
+54,2008,Chennai,2008-05-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+55,2008,Kolkata,2008-05-19,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,Eden Gardens,MI Player 3
+56,2008,Chennai,2008-05-20,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+57,2009,Bengaluru,2009-03-26,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 4
+58,2009,Bengaluru,2009-03-27,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Punjab Kings,M Chinnaswamy Stadium,PK Player 2
+59,2009,Bengaluru,2009-03-28,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 6
+60,2009,Chennai,2009-03-29,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+61,2009,Jaipur,2009-03-30,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 8
+62,2009,Chennai,2009-03-31,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 3
+63,2009,Hyderabad,2009-04-01,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 7
+64,2009,Chennai,2009-04-02,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 6
+65,2009,Bengaluru,2009-04-03,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 1
+66,2009,Delhi,2009-04-04,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Arun Jaitley Stadium,MI Player 9
+67,2009,Mumbai,2009-04-05,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,Wankhede Stadium,SH Player 4
+68,2009,Jaipur,2009-04-06,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+69,2009,Mohali,2009-04-07,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,PCA Stadium,RR Player 11
+70,2009,Delhi,2009-04-08,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 9
+71,2009,Kolkata,2009-04-09,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 1
+72,2009,Bengaluru,2009-04-10,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 1
+73,2009,Mumbai,2009-04-11,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 4
+74,2009,Mohali,2009-04-12,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 1
+75,2009,Jaipur,2009-04-13,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+76,2009,Delhi,2009-04-14,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 2
+77,2009,Kolkata,2009-04-15,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 5
+78,2009,Mumbai,2009-04-16,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,Wankhede Stadium,MI Player 8
+79,2009,Bengaluru,2009-04-17,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 5
+80,2009,Delhi,2009-04-18,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Royal Challengers Bengaluru,Arun Jaitley Stadium,RCB Player 9
+81,2009,Hyderabad,2009-04-19,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 8
+82,2009,Hyderabad,2009-04-20,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+83,2009,Delhi,2009-04-21,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,Arun Jaitley Stadium,PK Player 9
+84,2009,Kolkata,2009-04-22,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Eden Gardens,CSK Player 6
+85,2009,Kolkata,2009-04-23,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,Eden Gardens,RCB Player 11
+86,2009,Mohali,2009-04-24,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 1
+87,2009,Bengaluru,2009-04-25,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 5
+88,2009,Chennai,2009-04-26,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 7
+89,2009,Kolkata,2009-04-27,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Eden Gardens,DC Player 1
+90,2009,Mumbai,2009-04-28,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,Wankhede Stadium,MI Player 1
+91,2009,Kolkata,2009-04-29,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,Eden Gardens,KKR Player 9
+92,2009,Jaipur,2009-04-30,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Sawai Mansingh Stadium,MI Player 5
+93,2009,Jaipur,2009-05-01,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+94,2009,Chennai,2009-05-02,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 4
+95,2009,Jaipur,2009-05-03,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+96,2009,Jaipur,2009-05-04,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+97,2009,Mohali,2009-05-05,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,PCA Stadium,SH Player 2
+98,2009,Delhi,2009-05-06,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,Arun Jaitley Stadium,RR Player 10
+99,2009,Kolkata,2009-05-07,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Eden Gardens,SH Player 8
+100,2009,Chennai,2009-05-08,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 3
+101,2009,Mohali,2009-05-09,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,PCA Stadium,CSK Player 9
+102,2009,Mumbai,2009-05-10,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Wankhede Stadium,CSK Player 3
+103,2009,Mohali,2009-05-11,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 11
+104,2009,Delhi,2009-05-12,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 11
+105,2009,Hyderabad,2009-05-13,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 8
+106,2009,Hyderabad,2009-05-14,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+107,2009,Mumbai,2009-05-15,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 2
+108,2009,Hyderabad,2009-05-16,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 8
+109,2009,Chennai,2009-05-17,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,MA Chidambaram Stadium,MI Player 4
+110,2009,Mohali,2009-05-18,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Royal Challengers Bengaluru,PCA Stadium,RCB Player 8
+111,2009,Mumbai,2009-05-19,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,Wankhede Stadium,MI Player 11
+112,2009,Hyderabad,2009-05-20,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+113,2010,Hyderabad,2010-03-26,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,Rajiv Gandhi Stadium,RR Player 7
+114,2010,Chennai,2010-03-27,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,MA Chidambaram Stadium,RR Player 11
+115,2010,Hyderabad,2010-03-28,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Rajiv Gandhi Stadium,KKR Player 7
+116,2010,Bengaluru,2010-03-29,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 6
+117,2010,Mumbai,2010-03-30,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 7
+118,2010,Mumbai,2010-03-31,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 1
+119,2010,Bengaluru,2010-04-01,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 7
+120,2010,Hyderabad,2010-04-02,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 5
+121,2010,Delhi,2010-04-03,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 11
+122,2010,Mumbai,2010-04-04,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,Wankhede Stadium,MI Player 5
+123,2010,Kolkata,2010-04-05,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+124,2010,Chennai,2010-04-06,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 11
+125,2010,Jaipur,2010-04-07,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 9
+126,2010,Bengaluru,2010-04-08,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 7
+127,2010,Bengaluru,2010-04-09,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 5
+128,2010,Jaipur,2010-04-10,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Sawai Mansingh Stadium,MI Player 3
+129,2010,Jaipur,2010-04-11,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+130,2010,Hyderabad,2010-04-12,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 5
+131,2010,Bengaluru,2010-04-13,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 9
+132,2010,Mohali,2010-04-14,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,PCA Stadium,CSK Player 2
+133,2010,Delhi,2010-04-15,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 9
+134,2010,Jaipur,2010-04-16,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 8
+135,2010,Kolkata,2010-04-17,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,Eden Gardens,KKR Player 2
+136,2010,Chennai,2010-04-18,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 4
+137,2010,Hyderabad,2010-04-19,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 1
+138,2010,Mohali,2010-04-20,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,PCA Stadium,KKR Player 4
+139,2010,Hyderabad,2010-04-21,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Rajiv Gandhi Stadium,DC Player 8
+140,2010,Mohali,2010-04-22,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,PCA Stadium,PK Player 11
+141,2010,Bengaluru,2010-04-23,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Delhi Capitals,M Chinnaswamy Stadium,DC Player 7
+142,2010,Hyderabad,2010-04-24,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 5
+143,2010,Kolkata,2010-04-25,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 8
+144,2010,Delhi,2010-04-26,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Arun Jaitley Stadium,MI Player 9
+145,2010,Delhi,2010-04-27,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 2
+146,2010,Delhi,2010-04-28,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,Arun Jaitley Stadium,RR Player 11
+147,2010,Kolkata,2010-04-29,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,Eden Gardens,PK Player 11
+148,2010,Jaipur,2010-04-30,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Sawai Mansingh Stadium,RCB Player 1
+149,2010,Mumbai,2010-05-01,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,Wankhede Stadium,SH Player 11
+150,2010,Chennai,2010-05-02,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 9
+151,2010,Kolkata,2010-05-03,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 2
+152,2010,Delhi,2010-05-04,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Arun Jaitley Stadium,RCB Player 7
+153,2010,Chennai,2010-05-05,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 1
+154,2010,Delhi,2010-05-06,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 6
+155,2010,Chennai,2010-05-07,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 4
+156,2010,Mumbai,2010-05-08,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Kolkata Knight Riders,Wankhede Stadium,KKR Player 5
+157,2010,Mohali,2010-05-09,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,PCA Stadium,MI Player 11
+158,2010,Mohali,2010-05-10,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,PCA Stadium,PK Player 7
+159,2010,Kolkata,2010-05-11,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+160,2010,Jaipur,2010-05-12,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+161,2010,Jaipur,2010-05-13,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 4
+162,2010,Mohali,2010-05-14,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,PCA Stadium,PK Player 4
+163,2010,Kolkata,2010-05-15,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 5
+164,2010,Bengaluru,2010-05-16,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 3
+165,2010,Mumbai,2010-05-17,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 1
+166,2010,Mohali,2010-05-18,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 1
+167,2010,Chennai,2010-05-19,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,MA Chidambaram Stadium,PK Player 3
+168,2010,Mumbai,2010-05-20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Wankhede Stadium,RR Player 6
+169,2011,Kolkata,2011-03-26,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Eden Gardens,SH Player 5
+170,2011,Chennai,2011-03-27,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,MA Chidambaram Stadium,PK Player 6
+171,2011,Jaipur,2011-03-28,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Sawai Mansingh Stadium,KKR Player 10
+172,2011,Delhi,2011-03-29,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,Arun Jaitley Stadium,PK Player 6
+173,2011,Mohali,2011-03-30,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,PCA Stadium,RCB Player 10
+174,2011,Delhi,2011-03-31,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 8
+175,2011,Mumbai,2011-04-01,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,Wankhede Stadium,MI Player 5
+176,2011,Kolkata,2011-04-02,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 8
+177,2011,Bengaluru,2011-04-03,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 5
+178,2011,Mohali,2011-04-04,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 6
+179,2011,Hyderabad,2011-04-05,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,Rajiv Gandhi Stadium,PK Player 2
+180,2011,Kolkata,2011-04-06,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 7
+181,2011,Mohali,2011-04-07,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,PCA Stadium,RR Player 9
+182,2011,Jaipur,2011-04-08,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 2
+183,2011,Hyderabad,2011-04-09,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 2
+184,2011,Kolkata,2011-04-10,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Eden Gardens,CSK Player 8
+185,2011,Jaipur,2011-04-11,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 10
+186,2011,Bengaluru,2011-04-12,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,M Chinnaswamy Stadium,PK Player 11
+187,2011,Kolkata,2011-04-13,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 5
+188,2011,Chennai,2011-04-14,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 4
+189,2011,Jaipur,2011-04-15,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+190,2011,Mumbai,2011-04-16,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Wankhede Stadium,SH Player 6
+191,2011,Mumbai,2011-04-17,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 9
+192,2011,Hyderabad,2011-04-18,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 8
+193,2011,Hyderabad,2011-04-19,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 4
+194,2011,Mohali,2011-04-20,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings,PCA Stadium,PK Player 5
+195,2011,Jaipur,2011-04-21,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 10
+196,2011,Delhi,2011-04-22,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 3
+197,2011,Chennai,2011-04-23,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,MA Chidambaram Stadium,DC Player 11
+198,2011,Mohali,2011-04-24,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 10
+199,2011,Delhi,2011-04-25,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 3
+200,2011,Bengaluru,2011-04-26,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 10
+201,2011,Bengaluru,2011-04-27,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,Mumbai Indians,M Chinnaswamy Stadium,MI Player 7
+202,2011,Mohali,2011-04-28,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,PCA Stadium,PK Player 4
+203,2011,Kolkata,2011-04-29,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 2
+204,2011,Hyderabad,2011-04-30,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 9
+205,2011,Chennai,2011-05-01,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 3
+206,2011,Chennai,2011-05-02,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 5
+207,2011,Hyderabad,2011-05-03,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 10
+208,2011,Delhi,2011-05-04,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 6
+209,2011,Hyderabad,2011-05-05,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 1
+210,2011,Bengaluru,2011-05-06,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 2
+211,2011,Bengaluru,2011-05-07,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 3
+212,2011,Jaipur,2011-05-08,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 11
+213,2011,Kolkata,2011-05-09,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Eden Gardens,RR Player 6
+214,2011,Chennai,2011-05-10,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 9
+215,2011,Delhi,2011-05-11,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 8
+216,2011,Delhi,2011-05-12,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,Arun Jaitley Stadium,RR Player 1
+217,2011,Mohali,2011-05-13,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,PCA Stadium,SH Player 11
+218,2011,Mumbai,2011-05-14,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,Wankhede Stadium,PK Player 3
+219,2011,Mumbai,2011-05-15,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,Wankhede Stadium,RR Player 4
+220,2011,Bengaluru,2011-05-16,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 7
+221,2011,Mumbai,2011-05-17,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 4
+222,2011,Chennai,2011-05-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,MA Chidambaram Stadium,RR Player 11
+223,2011,Mumbai,2011-05-19,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 7
+224,2011,Jaipur,2011-05-20,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+225,2012,Mumbai,2012-03-26,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 3
+226,2012,Chennai,2012-03-27,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 5
+227,2012,Hyderabad,2012-03-28,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 8
+228,2012,Mumbai,2012-03-29,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,Wankhede Stadium,CSK Player 8
+229,2012,Hyderabad,2012-03-30,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 4
+230,2012,Chennai,2012-03-31,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 7
+231,2012,Kolkata,2012-04-01,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+232,2012,Hyderabad,2012-04-02,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Rajiv Gandhi Stadium,DC Player 2
+233,2012,Hyderabad,2012-04-03,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 8
+234,2012,Hyderabad,2012-04-04,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 7
+235,2012,Bengaluru,2012-04-05,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,M Chinnaswamy Stadium,MI Player 10
+236,2012,Mohali,2012-04-06,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,PCA Stadium,RR Player 8
+237,2012,Mumbai,2012-04-07,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,Wankhede Stadium,KKR Player 1
+238,2012,Mumbai,2012-04-08,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,Wankhede Stadium,MI Player 11
+239,2012,Hyderabad,2012-04-09,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,Rajiv Gandhi Stadium,RR Player 4
+240,2012,Kolkata,2012-04-10,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 7
+241,2012,Mumbai,2012-04-11,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,Wankhede Stadium,MI Player 4
+242,2012,Jaipur,2012-04-12,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 6
+243,2012,Mohali,2012-04-13,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,PCA Stadium,PK Player 4
+244,2012,Kolkata,2012-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Eden Gardens,SH Player 4
+245,2012,Jaipur,2012-04-15,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+246,2012,Bengaluru,2012-04-16,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 3
+247,2012,Jaipur,2012-04-17,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 11
+248,2012,Kolkata,2012-04-18,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Kolkata Knight Riders,Eden Gardens,KKR Player 1
+249,2012,Kolkata,2012-04-19,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+250,2012,Delhi,2012-04-20,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Arun Jaitley Stadium,RR Player 8
+251,2012,Mohali,2012-04-21,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 1
+252,2012,Mumbai,2012-04-22,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 1
+253,2012,Delhi,2012-04-23,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 4
+254,2012,Chennai,2012-04-24,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 11
+255,2012,Chennai,2012-04-25,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 5
+256,2012,Chennai,2012-04-26,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+257,2012,Bengaluru,2012-04-27,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 8
+258,2012,Delhi,2012-04-28,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 4
+259,2012,Jaipur,2012-04-29,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 2
+260,2012,Mohali,2012-04-30,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,PCA Stadium,RCB Player 5
+261,2012,Jaipur,2012-05-01,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+262,2012,Hyderabad,2012-05-02,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Rajiv Gandhi Stadium,KKR Player 4
+263,2012,Delhi,2012-05-03,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+264,2012,Delhi,2012-05-04,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 3
+265,2012,Mohali,2012-05-05,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,PCA Stadium,PK Player 10
+266,2012,Chennai,2012-05-06,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,MA Chidambaram Stadium,MI Player 11
+267,2012,Chennai,2012-05-07,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 1
+268,2012,Mumbai,2012-05-08,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,Wankhede Stadium,PK Player 10
+269,2012,Jaipur,2012-05-09,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 10
+270,2012,Delhi,2012-05-10,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 1
+271,2012,Delhi,2012-05-11,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 3
+272,2012,Bengaluru,2012-05-12,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,M Chinnaswamy Stadium,KKR Player 1
+273,2012,Jaipur,2012-05-13,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+274,2012,Bengaluru,2012-05-14,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 10
+275,2012,Bengaluru,2012-05-15,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 9
+276,2012,Kolkata,2012-05-16,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,Eden Gardens,MI Player 7
+277,2012,Mohali,2012-05-17,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 1
+278,2012,Kolkata,2012-05-18,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Rajasthan Royals,Eden Gardens,RR Player 11
+279,2012,Bengaluru,2012-05-19,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 5
+280,2012,Mohali,2012-05-20,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,PCA Stadium,PK Player 11
+281,2013,Mumbai,2013-03-26,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 11
+282,2013,Kolkata,2013-03-27,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,Eden Gardens,CSK Player 9
+283,2013,Jaipur,2013-03-28,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+284,2013,Mumbai,2013-03-29,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Punjab Kings,Wankhede Stadium,PK Player 7
+285,2013,Jaipur,2013-03-30,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+286,2013,Chennai,2013-03-31,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,MA Chidambaram Stadium,PK Player 4
+287,2013,Delhi,2013-04-01,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 10
+288,2013,Jaipur,2013-04-02,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+289,2013,Mumbai,2013-04-03,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,Wankhede Stadium,DC Player 3
+290,2013,Bengaluru,2013-04-04,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,M Chinnaswamy Stadium,DC Player 10
+291,2013,Mumbai,2013-04-05,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 4
+292,2013,Kolkata,2013-04-06,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,Eden Gardens,MI Player 10
+293,2013,Mumbai,2013-04-07,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,Wankhede Stadium,CSK Player 6
+294,2013,Hyderabad,2013-04-08,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 4
+295,2013,Kolkata,2013-04-09,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,Eden Gardens,RR Player 2
+296,2013,Delhi,2013-04-10,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 7
+297,2013,Bengaluru,2013-04-11,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,M Chinnaswamy Stadium,PK Player 5
+298,2013,Mohali,2013-04-12,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,PCA Stadium,PK Player 2
+299,2013,Jaipur,2013-04-13,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+300,2013,Chennai,2013-04-14,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,MA Chidambaram Stadium,MI Player 4
+301,2013,Hyderabad,2013-04-15,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 10
+302,2013,Chennai,2013-04-16,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 7
+303,2013,Mumbai,2013-04-17,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 11
+304,2013,Mohali,2013-04-18,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,PCA Stadium,CSK Player 8
+305,2013,Chennai,2013-04-19,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,MA Chidambaram Stadium,RCB Player 2
+306,2013,Delhi,2013-04-20,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 11
+307,2013,Delhi,2013-04-21,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 8
+308,2013,Mohali,2013-04-22,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 11
+309,2013,Kolkata,2013-04-23,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 1
+310,2013,Mohali,2013-04-24,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,PCA Stadium,MI Player 2
+311,2013,Mohali,2013-04-25,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 4
+312,2013,Mohali,2013-04-26,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,PCA Stadium,RR Player 9
+313,2013,Jaipur,2013-04-27,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 11
+314,2013,Chennai,2013-04-28,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+315,2013,Delhi,2013-04-29,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 9
+316,2013,Hyderabad,2013-04-30,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+317,2013,Jaipur,2013-05-01,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+318,2013,Bengaluru,2013-05-02,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 11
+319,2013,Hyderabad,2013-05-03,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 5
+320,2013,Jaipur,2013-05-04,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 4
+321,2013,Delhi,2013-05-05,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 2
+322,2013,Delhi,2013-05-06,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,Arun Jaitley Stadium,PK Player 4
+323,2013,Mohali,2013-05-07,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Royal Challengers Bengaluru,PCA Stadium,RCB Player 7
+324,2013,Hyderabad,2013-05-08,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,Rajiv Gandhi Stadium,DC Player 11
+325,2013,Bengaluru,2013-05-09,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 4
+326,2013,Chennai,2013-05-10,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,MA Chidambaram Stadium,DC Player 7
+327,2013,Hyderabad,2013-05-11,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,Rajiv Gandhi Stadium,PK Player 5
+328,2013,Hyderabad,2013-05-12,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 8
+329,2013,Bengaluru,2013-05-13,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,M Chinnaswamy Stadium,MI Player 11
+330,2013,Chennai,2013-05-14,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 7
+331,2013,Kolkata,2013-05-15,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+332,2013,Bengaluru,2013-05-16,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 10
+333,2013,Bengaluru,2013-05-17,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 2
+334,2013,Kolkata,2013-05-18,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Eden Gardens,KKR Player 3
+335,2013,Kolkata,2013-05-19,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 3
+336,2013,Mumbai,2013-05-20,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,Wankhede Stadium,SH Player 3
+337,2014,Bengaluru,2014-03-26,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 6
+338,2014,Jaipur,2014-03-27,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+339,2014,Chennai,2014-03-28,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 3
+340,2014,Delhi,2014-03-29,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Arun Jaitley Stadium,MI Player 6
+341,2014,Kolkata,2014-03-30,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,Eden Gardens,PK Player 4
+342,2014,Hyderabad,2014-03-31,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 9
+343,2014,Chennai,2014-04-01,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+344,2014,Chennai,2014-04-02,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 9
+345,2014,Kolkata,2014-04-03,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Eden Gardens,SH Player 2
+346,2014,Jaipur,2014-04-04,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+347,2014,Hyderabad,2014-04-05,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 9
+348,2014,Mohali,2014-04-06,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,PCA Stadium,PK Player 5
+349,2014,Bengaluru,2014-04-07,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 8
+350,2014,Mumbai,2014-04-08,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 10
+351,2014,Mumbai,2014-04-09,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,Wankhede Stadium,PK Player 10
+352,2014,Bengaluru,2014-04-10,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 8
+353,2014,Mumbai,2014-04-11,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 1
+354,2014,Bengaluru,2014-04-12,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,M Chinnaswamy Stadium,CSK Player 11
+355,2014,Chennai,2014-04-13,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,MA Chidambaram Stadium,MI Player 5
+356,2014,Jaipur,2014-04-14,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+357,2014,Delhi,2014-04-15,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,Arun Jaitley Stadium,PK Player 10
+358,2014,Mohali,2014-04-16,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,PCA Stadium,SH Player 2
+359,2014,Bengaluru,2014-04-17,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,M Chinnaswamy Stadium,DC Player 8
+360,2014,Mohali,2014-04-18,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 10
+361,2014,Jaipur,2014-04-19,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 2
+362,2014,Bengaluru,2014-04-20,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 3
+363,2014,Chennai,2014-04-21,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 11
+364,2014,Delhi,2014-04-22,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 4
+365,2014,Kolkata,2014-04-23,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 10
+366,2014,Chennai,2014-04-24,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 1
+367,2014,Kolkata,2014-04-25,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,Eden Gardens,DC Player 3
+368,2014,Jaipur,2014-04-26,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 8
+369,2014,Delhi,2014-04-27,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,Arun Jaitley Stadium,KKR Player 1
+370,2014,Mumbai,2014-04-28,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 11
+371,2014,Kolkata,2014-04-29,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 10
+372,2014,Bengaluru,2014-04-30,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 10
+373,2014,Kolkata,2014-05-01,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Royal Challengers Bengaluru,Eden Gardens,RCB Player 8
+374,2014,Hyderabad,2014-05-02,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 2
+375,2014,Hyderabad,2014-05-03,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 7
+376,2014,Mumbai,2014-05-04,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Wankhede Stadium,CSK Player 5
+377,2014,Delhi,2014-05-05,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 11
+378,2014,Hyderabad,2014-05-06,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,Rajiv Gandhi Stadium,KKR Player 1
+379,2014,Delhi,2014-05-07,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 7
+380,2014,Mumbai,2014-05-08,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,Wankhede Stadium,SH Player 10
+381,2014,Hyderabad,2014-05-09,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 1
+382,2014,Delhi,2014-05-10,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 10
+383,2014,Mumbai,2014-05-11,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 10
+384,2014,Kolkata,2014-05-12,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,Eden Gardens,RR Player 9
+385,2014,Mohali,2014-05-13,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,PCA Stadium,PK Player 9
+386,2014,Mohali,2014-05-14,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings,PCA Stadium,PK Player 4
+387,2014,Jaipur,2014-05-15,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 8
+388,2014,Chennai,2014-05-16,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,MA Chidambaram Stadium,RR Player 1
+389,2014,Hyderabad,2014-05-17,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 6
+390,2014,Mohali,2014-05-18,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 5
+391,2014,Jaipur,2014-05-19,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 4
+392,2014,Mohali,2014-05-20,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 5
+393,2015,Mumbai,2015-03-26,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,Wankhede Stadium,RR Player 2
+394,2015,Hyderabad,2015-03-27,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,Rajiv Gandhi Stadium,KKR Player 2
+395,2015,Mumbai,2015-03-28,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,Wankhede Stadium,MI Player 2
+396,2015,Mumbai,2015-03-29,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Wankhede Stadium,DC Player 6
+397,2015,Kolkata,2015-03-30,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 1
+398,2015,Mohali,2015-03-31,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Punjab Kings,PCA Stadium,PK Player 9
+399,2015,Mumbai,2015-04-01,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 9
+400,2015,Delhi,2015-04-02,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 1
+401,2015,Delhi,2015-04-03,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 10
+402,2015,Mohali,2015-04-04,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings,PCA Stadium,PK Player 6
+403,2015,Jaipur,2015-04-05,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 8
+404,2015,Jaipur,2015-04-06,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+405,2015,Mohali,2015-04-07,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,PCA Stadium,DC Player 1
+406,2015,Chennai,2015-04-08,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 10
+407,2015,Kolkata,2015-04-09,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 8
+408,2015,Mohali,2015-04-10,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 1
+409,2015,Chennai,2015-04-11,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 4
+410,2015,Kolkata,2015-04-12,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+411,2015,Chennai,2015-04-13,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+412,2015,Mumbai,2015-04-14,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 7
+413,2015,Bengaluru,2015-04-15,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 10
+414,2015,Mumbai,2015-04-16,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,Wankhede Stadium,MI Player 8
+415,2015,Mohali,2015-04-17,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,PCA Stadium,SH Player 2
+416,2015,Bengaluru,2015-04-18,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 11
+417,2015,Bengaluru,2015-04-19,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 2
+418,2015,Jaipur,2015-04-20,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Punjab Kings,Sawai Mansingh Stadium,PK Player 7
+419,2015,Kolkata,2015-04-21,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,Eden Gardens,PK Player 2
+420,2015,Delhi,2015-04-22,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 1
+421,2015,Bengaluru,2015-04-23,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 8
+422,2015,Jaipur,2015-04-24,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 9
+423,2015,Delhi,2015-04-25,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 7
+424,2015,Jaipur,2015-04-26,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+425,2015,Hyderabad,2015-04-27,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 2
+426,2015,Hyderabad,2015-04-28,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 5
+427,2015,Kolkata,2015-04-29,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 11
+428,2015,Hyderabad,2015-04-30,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 2
+429,2015,Chennai,2015-05-01,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 9
+430,2015,Kolkata,2015-05-02,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Eden Gardens,SH Player 8
+431,2015,Jaipur,2015-05-03,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 8
+432,2015,Chennai,2015-05-04,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 3
+433,2015,Delhi,2015-05-05,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Arun Jaitley Stadium,MI Player 10
+434,2015,Mohali,2015-05-06,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,PCA Stadium,RR Player 9
+435,2015,Jaipur,2015-05-07,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 6
+436,2015,Chennai,2015-05-08,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 5
+437,2015,Hyderabad,2015-05-09,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 9
+438,2015,Delhi,2015-05-10,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Royal Challengers Bengaluru,Arun Jaitley Stadium,RCB Player 1
+439,2015,Chennai,2015-05-11,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 3
+440,2015,Kolkata,2015-05-12,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 1
+441,2015,Mumbai,2015-05-13,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 4
+442,2015,Delhi,2015-05-14,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Arun Jaitley Stadium,RR Player 10
+443,2015,Hyderabad,2015-05-15,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Rajiv Gandhi Stadium,CSK Player 2
+444,2015,Bengaluru,2015-05-16,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Punjab Kings,M Chinnaswamy Stadium,PK Player 1
+445,2015,Bengaluru,2015-05-17,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,M Chinnaswamy Stadium,MI Player 9
+446,2015,Hyderabad,2015-05-18,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 3
+447,2015,Mohali,2015-05-19,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 10
+448,2015,Bengaluru,2015-05-20,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 1
+449,2016,Kolkata,2016-03-26,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 9
+450,2016,Chennai,2016-03-27,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 5
+451,2016,Kolkata,2016-03-28,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,Eden Gardens,CSK Player 2
+452,2016,Kolkata,2016-03-29,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,Eden Gardens,PK Player 9
+453,2016,Chennai,2016-03-30,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,MA Chidambaram Stadium,PK Player 3
+454,2016,Delhi,2016-03-31,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+455,2016,Hyderabad,2016-04-01,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 2
+456,2016,Mumbai,2016-04-02,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,Wankhede Stadium,MI Player 10
+457,2016,Delhi,2016-04-03,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 6
+458,2016,Jaipur,2016-04-04,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 8
+459,2016,Delhi,2016-04-05,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 6
+460,2016,Mumbai,2016-04-06,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,Wankhede Stadium,RR Player 10
+461,2016,Kolkata,2016-04-07,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,Eden Gardens,KKR Player 4
+462,2016,Hyderabad,2016-04-08,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 5
+463,2016,Jaipur,2016-04-09,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Royal Challengers Bengaluru,Sawai Mansingh Stadium,RCB Player 3
+464,2016,Mohali,2016-04-10,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 11
+465,2016,Delhi,2016-04-11,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Royal Challengers Bengaluru,Arun Jaitley Stadium,RCB Player 6
+466,2016,Chennai,2016-04-12,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 11
+467,2016,Delhi,2016-04-13,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 3
+468,2016,Mumbai,2016-04-14,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,Wankhede Stadium,DC Player 9
+469,2016,Jaipur,2016-04-15,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 8
+470,2016,Chennai,2016-04-16,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,MA Chidambaram Stadium,RR Player 3
+471,2016,Kolkata,2016-04-17,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 9
+472,2016,Mohali,2016-04-18,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,PCA Stadium,DC Player 10
+473,2016,Mumbai,2016-04-19,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,Wankhede Stadium,PK Player 10
+474,2016,Chennai,2016-04-20,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+475,2016,Delhi,2016-04-21,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 7
+476,2016,Mohali,2016-04-22,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,PCA Stadium,PK Player 8
+477,2016,Mumbai,2016-04-23,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,Wankhede Stadium,MI Player 5
+478,2016,Hyderabad,2016-04-24,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 4
+479,2016,Mumbai,2016-04-25,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 10
+480,2016,Bengaluru,2016-04-26,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 7
+481,2016,Mumbai,2016-04-27,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 8
+482,2016,Hyderabad,2016-04-28,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Rajiv Gandhi Stadium,CSK Player 9
+483,2016,Hyderabad,2016-04-29,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+484,2016,Jaipur,2016-04-30,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 10
+485,2016,Mohali,2016-05-01,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,PCA Stadium,PK Player 2
+486,2016,Jaipur,2016-05-02,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+487,2016,Kolkata,2016-05-03,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad,Eden Gardens,SH Player 8
+488,2016,Mohali,2016-05-04,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,PCA Stadium,MI Player 10
+489,2016,Bengaluru,2016-05-05,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 2
+490,2016,Hyderabad,2016-05-06,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 2
+491,2016,Kolkata,2016-05-07,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,Eden Gardens,KKR Player 5
+492,2016,Jaipur,2016-05-08,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Punjab Kings,Sawai Mansingh Stadium,PK Player 7
+493,2016,Bengaluru,2016-05-09,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,M Chinnaswamy Stadium,CSK Player 4
+494,2016,Bengaluru,2016-05-10,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 10
+495,2016,Chennai,2016-05-11,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,MA Chidambaram Stadium,DC Player 11
+496,2016,Bengaluru,2016-05-12,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 1
+497,2016,Chennai,2016-05-13,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,MA Chidambaram Stadium,RCB Player 5
+498,2016,Delhi,2016-05-14,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,Arun Jaitley Stadium,RR Player 11
+499,2016,Hyderabad,2016-05-15,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 9
+500,2016,Mohali,2016-05-16,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,PCA Stadium,RCB Player 9
+501,2016,Bengaluru,2016-05-17,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 2
+502,2016,Jaipur,2016-05-18,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,Sawai Mansingh Stadium,KKR Player 2
+503,2016,Bengaluru,2016-05-19,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 9
+504,2016,Mohali,2016-05-20,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,PCA Stadium,RR Player 1
+505,2017,Kolkata,2017-03-26,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 4
+506,2017,Hyderabad,2017-03-27,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 3
+507,2017,Mumbai,2017-03-28,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 9
+508,2017,Jaipur,2017-03-29,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+509,2017,Delhi,2017-03-30,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 2
+510,2017,Bengaluru,2017-03-31,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 4
+511,2017,Jaipur,2017-04-01,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 4
+512,2017,Delhi,2017-04-02,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Arun Jaitley Stadium,MI Player 6
+513,2017,Mumbai,2017-04-03,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 4
+514,2017,Hyderabad,2017-04-04,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Rajiv Gandhi Stadium,RCB Player 9
+515,2017,Hyderabad,2017-04-05,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Rajiv Gandhi Stadium,RR Player 4
+516,2017,Mohali,2017-04-06,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 7
+517,2017,Hyderabad,2017-04-07,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 5
+518,2017,Mumbai,2017-04-08,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,Wankhede Stadium,MI Player 8
+519,2017,Bengaluru,2017-04-09,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,M Chinnaswamy Stadium,PK Player 10
+520,2017,Hyderabad,2017-04-10,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 4
+521,2017,Jaipur,2017-04-11,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 2
+522,2017,Delhi,2017-04-12,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 7
+523,2017,Chennai,2017-04-13,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,MA Chidambaram Stadium,RR Player 5
+524,2017,Bengaluru,2017-04-14,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 3
+525,2017,Bengaluru,2017-04-15,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,M Chinnaswamy Stadium,CSK Player 2
+526,2017,Mohali,2017-04-16,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 9
+527,2017,Mumbai,2017-04-17,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Wankhede Stadium,CSK Player 2
+528,2017,Kolkata,2017-04-18,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,Eden Gardens,RR Player 7
+529,2017,Bengaluru,2017-04-19,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 8
+530,2017,Delhi,2017-04-20,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 6
+531,2017,Delhi,2017-04-21,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 8
+532,2017,Delhi,2017-04-22,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 11
+533,2017,Kolkata,2017-04-23,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 10
+534,2017,Mohali,2017-04-24,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 1
+535,2017,Mohali,2017-04-25,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,PCA Stadium,CSK Player 3
+536,2017,Kolkata,2017-04-26,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Eden Gardens,CSK Player 11
+537,2017,Chennai,2017-04-27,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+538,2017,Chennai,2017-04-28,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 10
+539,2017,Bengaluru,2017-04-29,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 11
+540,2017,Delhi,2017-04-30,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 10
+541,2017,Mumbai,2017-05-01,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,Wankhede Stadium,RR Player 1
+542,2017,Jaipur,2017-05-02,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Sawai Mansingh Stadium,DC Player 2
+543,2017,Chennai,2017-05-03,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 10
+544,2017,Hyderabad,2017-05-04,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 7
+545,2017,Chennai,2017-05-05,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 11
+546,2017,Mohali,2017-05-06,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,PCA Stadium,RR Player 4
+547,2017,Jaipur,2017-05-07,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 3
+548,2017,Chennai,2017-05-08,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 9
+549,2017,Mumbai,2017-05-09,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,Wankhede Stadium,MI Player 11
+550,2017,Kolkata,2017-05-10,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 1
+551,2017,Bengaluru,2017-05-11,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 4
+552,2017,Kolkata,2017-05-12,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Eden Gardens,MI Player 8
+553,2017,Jaipur,2017-05-13,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 9
+554,2017,Mumbai,2017-05-14,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 5
+555,2017,Kolkata,2017-05-15,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 10
+556,2017,Mohali,2017-05-16,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,PCA Stadium,KKR Player 9
+557,2017,Hyderabad,2017-05-17,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+558,2017,Jaipur,2017-05-18,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+559,2017,Chennai,2017-05-19,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 6
+560,2017,Mohali,2017-05-20,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,PCA Stadium,PK Player 5
+561,2018,Chennai,2018-03-26,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,MA Chidambaram Stadium,DC Player 6
+562,2018,Kolkata,2018-03-27,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+563,2018,Bengaluru,2018-03-28,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 10
+564,2018,Hyderabad,2018-03-29,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Punjab Kings,Rajiv Gandhi Stadium,PK Player 8
+565,2018,Chennai,2018-03-30,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 5
+566,2018,Hyderabad,2018-03-31,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 3
+567,2018,Jaipur,2018-04-01,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+568,2018,Jaipur,2018-04-02,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 6
+569,2018,Delhi,2018-04-03,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 9
+570,2018,Bengaluru,2018-04-04,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 1
+571,2018,Delhi,2018-04-05,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 1
+572,2018,Bengaluru,2018-04-06,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 5
+573,2018,Jaipur,2018-04-07,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 6
+574,2018,Bengaluru,2018-04-08,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Mumbai Indians,M Chinnaswamy Stadium,MI Player 9
+575,2018,Delhi,2018-04-09,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Arun Jaitley Stadium,RR Player 11
+576,2018,Mohali,2018-04-10,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,PCA Stadium,DC Player 10
+577,2018,Delhi,2018-04-11,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 11
+578,2018,Hyderabad,2018-04-12,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 10
+579,2018,Mumbai,2018-04-13,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,Wankhede Stadium,MI Player 11
+580,2018,Mumbai,2018-04-14,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 11
+581,2018,Mohali,2018-04-15,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 8
+582,2018,Mumbai,2018-04-16,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 9
+583,2018,Mohali,2018-04-17,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,PCA Stadium,PK Player 8
+584,2018,Mohali,2018-04-18,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,PCA Stadium,PK Player 4
+585,2018,Kolkata,2018-04-19,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,Eden Gardens,DC Player 11
+586,2018,Bengaluru,2018-04-20,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Punjab Kings,M Chinnaswamy Stadium,PK Player 8
+587,2018,Mohali,2018-04-21,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 10
+588,2018,Hyderabad,2018-04-22,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,Rajiv Gandhi Stadium,RCB Player 10
+589,2018,Mumbai,2018-04-23,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,Wankhede Stadium,SH Player 8
+590,2018,Kolkata,2018-04-24,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,Eden Gardens,MI Player 2
+591,2018,Jaipur,2018-04-25,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 9
+592,2018,Chennai,2018-04-26,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+593,2018,Kolkata,2018-04-27,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Royal Challengers Bengaluru,Eden Gardens,RCB Player 1
+594,2018,Bengaluru,2018-04-28,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 1
+595,2018,Chennai,2018-04-29,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 3
+596,2018,Delhi,2018-04-30,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 4
+597,2018,Jaipur,2018-05-01,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Royal Challengers Bengaluru,Sawai Mansingh Stadium,RCB Player 3
+598,2018,Chennai,2018-05-02,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 11
+599,2018,Chennai,2018-05-03,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 6
+600,2018,Chennai,2018-05-04,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 10
+601,2018,Mohali,2018-05-05,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,PCA Stadium,CSK Player 10
+602,2018,Jaipur,2018-05-06,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 4
+603,2018,Kolkata,2018-05-07,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,Eden Gardens,PK Player 1
+604,2018,Bengaluru,2018-05-08,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 2
+605,2018,Mohali,2018-05-09,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 9
+606,2018,Delhi,2018-05-10,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,Arun Jaitley Stadium,MI Player 3
+607,2018,Hyderabad,2018-05-11,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 5
+608,2018,Kolkata,2018-05-12,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Eden Gardens,KKR Player 3
+609,2018,Mumbai,2018-05-13,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Wankhede Stadium,DC Player 1
+610,2018,Hyderabad,2018-05-14,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,Rajiv Gandhi Stadium,DC Player 11
+611,2018,Delhi,2018-05-15,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 8
+612,2018,Hyderabad,2018-05-16,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Rajiv Gandhi Stadium,RR Player 9
+613,2018,Jaipur,2018-05-17,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+614,2018,Mumbai,2018-05-18,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 3
+615,2018,Mumbai,2018-05-19,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,Wankhede Stadium,MI Player 8
+616,2018,Kolkata,2018-05-20,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+617,2019,Hyderabad,2019-03-26,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+618,2019,Hyderabad,2019-03-27,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 5
+619,2019,Delhi,2019-03-28,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+620,2019,Bengaluru,2019-03-29,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 6
+621,2019,Bengaluru,2019-03-30,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,M Chinnaswamy Stadium,PK Player 2
+622,2019,Bengaluru,2019-03-31,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 8
+623,2019,Hyderabad,2019-04-01,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 2
+624,2019,Kolkata,2019-04-02,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,Eden Gardens,KKR Player 5
+625,2019,Chennai,2019-04-03,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,MA Chidambaram Stadium,MI Player 4
+626,2019,Hyderabad,2019-04-04,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 4
+627,2019,Jaipur,2019-04-05,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 4
+628,2019,Jaipur,2019-04-06,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,Sawai Mansingh Stadium,DC Player 10
+629,2019,Delhi,2019-04-07,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 10
+630,2019,Hyderabad,2019-04-08,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 5
+631,2019,Chennai,2019-04-09,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,MA Chidambaram Stadium,RR Player 4
+632,2019,Mohali,2019-04-10,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,PCA Stadium,MI Player 11
+633,2019,Hyderabad,2019-04-11,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Rajiv Gandhi Stadium,RR Player 6
+634,2019,Hyderabad,2019-04-12,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 1
+635,2019,Mumbai,2019-04-13,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 8
+636,2019,Bengaluru,2019-04-14,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 1
+637,2019,Mohali,2019-04-15,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 6
+638,2019,Mohali,2019-04-16,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,PCA Stadium,DC Player 6
+639,2019,Mumbai,2019-04-17,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 3
+640,2019,Jaipur,2019-04-18,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 6
+641,2019,Mumbai,2019-04-19,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 6
+642,2019,Chennai,2019-04-20,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+643,2019,Delhi,2019-04-21,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 9
+644,2019,Kolkata,2019-04-22,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,Eden Gardens,KKR Player 9
+645,2019,Kolkata,2019-04-23,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Eden Gardens,KKR Player 8
+646,2019,Mumbai,2019-04-24,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,Wankhede Stadium,SH Player 6
+647,2019,Mohali,2019-04-25,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 2
+648,2019,Mumbai,2019-04-26,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 9
+649,2019,Chennai,2019-04-27,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 10
+650,2019,Jaipur,2019-04-28,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Punjab Kings,Sawai Mansingh Stadium,PK Player 3
+651,2019,Mumbai,2019-04-29,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,Wankhede Stadium,KKR Player 8
+652,2019,Delhi,2019-04-30,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Arun Jaitley Stadium,RR Player 7
+653,2019,Bengaluru,2019-05-01,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,M Chinnaswamy Stadium,MI Player 1
+654,2019,Kolkata,2019-05-02,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 11
+655,2019,Delhi,2019-05-03,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 4
+656,2019,Chennai,2019-05-04,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,MA Chidambaram Stadium,PK Player 11
+657,2019,Jaipur,2019-05-05,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+658,2019,Bengaluru,2019-05-06,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 7
+659,2019,Kolkata,2019-05-07,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Eden Gardens,DC Player 4
+660,2019,Jaipur,2019-05-08,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Royal Challengers Bengaluru,Sawai Mansingh Stadium,RCB Player 5
+661,2019,Jaipur,2019-05-09,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 6
+662,2019,Mumbai,2019-05-10,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 3
+663,2019,Mohali,2019-05-11,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,PCA Stadium,RR Player 8
+664,2019,Chennai,2019-05-12,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Royal Challengers Bengaluru,MA Chidambaram Stadium,RCB Player 4
+665,2019,Mohali,2019-05-13,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,PCA Stadium,RCB Player 8
+666,2019,Delhi,2019-05-14,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+667,2019,Kolkata,2019-05-15,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 1
+668,2019,Chennai,2019-05-16,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 6
+669,2019,Kolkata,2019-05-17,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 7
+670,2019,Bengaluru,2019-05-18,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,M Chinnaswamy Stadium,CSK Player 11
+671,2019,Delhi,2019-05-19,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,Arun Jaitley Stadium,KKR Player 1
+672,2019,Mohali,2019-05-20,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,PCA Stadium,KKR Player 1
+673,2020,Mumbai,2020-03-26,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,Wankhede Stadium,DC Player 5
+674,2020,Hyderabad,2020-03-27,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 7
+675,2020,Bengaluru,2020-03-28,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 7
+676,2020,Mohali,2020-03-29,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,PCA Stadium,KKR Player 4
+677,2020,Bengaluru,2020-03-30,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,M Chinnaswamy Stadium,KKR Player 4
+678,2020,Hyderabad,2020-03-31,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 10
+679,2020,Delhi,2020-04-01,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 9
+680,2020,Mumbai,2020-04-02,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,Wankhede Stadium,MI Player 11
+681,2020,Jaipur,2020-04-03,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 8
+682,2020,Jaipur,2020-04-04,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+683,2020,Mumbai,2020-04-05,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,Wankhede Stadium,SH Player 7
+684,2020,Bengaluru,2020-04-06,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 9
+685,2020,Kolkata,2020-04-07,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Eden Gardens,RR Player 6
+686,2020,Kolkata,2020-04-08,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 4
+687,2020,Jaipur,2020-04-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 6
+688,2020,Jaipur,2020-04-10,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Sawai Mansingh Stadium,RCB Player 2
+689,2020,Bengaluru,2020-04-11,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,M Chinnaswamy Stadium,MI Player 6
+690,2020,Kolkata,2020-04-12,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 11
+691,2020,Bengaluru,2020-04-13,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,M Chinnaswamy Stadium,CSK Player 11
+692,2020,Mohali,2020-04-14,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 7
+693,2020,Chennai,2020-04-15,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,MA Chidambaram Stadium,RR Player 7
+694,2020,Hyderabad,2020-04-16,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 9
+695,2020,Delhi,2020-04-17,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 7
+696,2020,Mohali,2020-04-18,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,PCA Stadium,DC Player 8
+697,2020,Jaipur,2020-04-19,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 9
+698,2020,Delhi,2020-04-20,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 8
+699,2020,Hyderabad,2020-04-21,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,Rajiv Gandhi Stadium,RR Player 7
+700,2020,Kolkata,2020-04-22,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,Eden Gardens,KKR Player 10
+701,2020,Bengaluru,2020-04-23,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 9
+702,2020,Delhi,2020-04-24,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+703,2020,Kolkata,2020-04-25,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Eden Gardens,RCB Player 2
+704,2020,Mohali,2020-04-26,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,PCA Stadium,RR Player 5
+705,2020,Mumbai,2020-04-27,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 7
+706,2020,Hyderabad,2020-04-28,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Rajiv Gandhi Stadium,KKR Player 7
+707,2020,Mumbai,2020-04-29,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,Wankhede Stadium,PK Player 6
+708,2020,Chennai,2020-04-30,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,MA Chidambaram Stadium,MI Player 10
+709,2020,Hyderabad,2020-05-01,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,Rajiv Gandhi Stadium,CSK Player 10
+710,2020,Delhi,2020-05-02,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 2
+711,2020,Hyderabad,2020-05-03,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 9
+712,2020,Delhi,2020-05-04,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Arun Jaitley Stadium,RCB Player 1
+713,2020,Mohali,2020-05-05,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 8
+714,2020,Mumbai,2020-05-06,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,Wankhede Stadium,MI Player 2
+715,2020,Chennai,2020-05-07,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 1
+716,2020,Kolkata,2020-05-08,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 1
+717,2020,Chennai,2020-05-09,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,MA Chidambaram Stadium,DC Player 8
+718,2020,Chennai,2020-05-10,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 10
+719,2020,Jaipur,2020-05-11,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 4
+720,2020,Chennai,2020-05-12,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 6
+721,2020,Jaipur,2020-05-13,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+722,2020,Bengaluru,2020-05-14,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 11
+723,2020,Mohali,2020-05-15,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 1
+724,2020,Kolkata,2020-05-16,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 5
+725,2020,Mohali,2020-05-17,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 5
+726,2020,Delhi,2020-05-18,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 1
+727,2020,Mumbai,2020-05-19,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Wankhede Stadium,KKR Player 7
+728,2020,Chennai,2020-05-20,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 4
+729,2021,Bengaluru,2021-03-26,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Delhi Capitals,M Chinnaswamy Stadium,DC Player 9
+730,2021,Mumbai,2021-03-27,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 2
+731,2021,Jaipur,2021-03-28,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+732,2021,Delhi,2021-03-29,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 1
+733,2021,Mumbai,2021-03-30,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,Wankhede Stadium,DC Player 5
+734,2021,Hyderabad,2021-03-31,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 9
+735,2021,Kolkata,2021-04-01,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 9
+736,2021,Mumbai,2021-04-02,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,Wankhede Stadium,PK Player 4
+737,2021,Hyderabad,2021-04-03,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 3
+738,2021,Kolkata,2021-04-04,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Kolkata Knight Riders,Eden Gardens,KKR Player 2
+739,2021,Mumbai,2021-04-05,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,Wankhede Stadium,CSK Player 7
+740,2021,Delhi,2021-04-06,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 6
+741,2021,Mohali,2021-04-07,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 11
+742,2021,Mohali,2021-04-08,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 8
+743,2021,Mohali,2021-04-09,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 5
+744,2021,Hyderabad,2021-04-10,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 4
+745,2021,Mumbai,2021-04-11,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Wankhede Stadium,SH Player 1
+746,2021,Chennai,2021-04-12,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 5
+747,2021,Chennai,2021-04-13,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 8
+748,2021,Hyderabad,2021-04-14,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 2
+749,2021,Bengaluru,2021-04-15,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 8
+750,2021,Jaipur,2021-04-16,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+751,2021,Jaipur,2021-04-17,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 9
+752,2021,Delhi,2021-04-18,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,Arun Jaitley Stadium,PK Player 7
+753,2021,Kolkata,2021-04-19,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Eden Gardens,RR Player 3
+754,2021,Kolkata,2021-04-20,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,Eden Gardens,PK Player 6
+755,2021,Bengaluru,2021-04-21,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,M Chinnaswamy Stadium,PK Player 8
+756,2021,Jaipur,2021-04-22,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 4
+757,2021,Bengaluru,2021-04-23,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 9
+758,2021,Chennai,2021-04-24,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 10
+759,2021,Jaipur,2021-04-25,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 4
+760,2021,Delhi,2021-04-26,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 3
+761,2021,Kolkata,2021-04-27,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 4
+762,2021,Kolkata,2021-04-28,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals,Eden Gardens,DC Player 8
+763,2021,Chennai,2021-04-29,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 3
+764,2021,Mohali,2021-04-30,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,PCA Stadium,RR Player 7
+765,2021,Bengaluru,2021-05-01,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 10
+766,2021,Chennai,2021-05-02,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 4
+767,2021,Hyderabad,2021-05-03,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,Rajiv Gandhi Stadium,RR Player 1
+768,2021,Chennai,2021-05-04,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 2
+769,2021,Kolkata,2021-05-05,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,Eden Gardens,SH Player 3
+770,2021,Chennai,2021-05-06,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,MA Chidambaram Stadium,DC Player 8
+771,2021,Mohali,2021-05-07,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,PCA Stadium,CSK Player 7
+772,2021,Hyderabad,2021-05-08,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Rajiv Gandhi Stadium,RCB Player 3
+773,2021,Mumbai,2021-05-09,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 3
+774,2021,Bengaluru,2021-05-10,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 6
+775,2021,Hyderabad,2021-05-11,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,Rajiv Gandhi Stadium,DC Player 8
+776,2021,Mumbai,2021-05-12,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 2
+777,2021,Mohali,2021-05-13,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,PCA Stadium,KKR Player 6
+778,2021,Jaipur,2021-05-14,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Sawai Mansingh Stadium,RCB Player 6
+779,2021,Delhi,2021-05-15,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 8
+780,2021,Jaipur,2021-05-16,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+781,2021,Delhi,2021-05-17,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,Arun Jaitley Stadium,MI Player 11
+782,2021,Bengaluru,2021-05-18,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Kolkata Knight Riders,M Chinnaswamy Stadium,KKR Player 9
+783,2021,Mohali,2021-05-19,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,PCA Stadium,SH Player 11
+784,2021,Delhi,2021-05-20,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 5
+785,2022,Kolkata,2022-03-26,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Eden Gardens,RCB Player 8
+786,2022,Bengaluru,2022-03-27,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 11
+787,2022,Ahmedabad,2022-03-28,Gujarat Titans,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,Narendra Modi Stadium,DC Player 1
+788,2022,Bengaluru,2022-03-29,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 1
+789,2022,Chennai,2022-03-30,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,bat,Lucknow Super Giants,MA Chidambaram Stadium,LSG Player 2
+790,2022,Hyderabad,2022-03-31,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Rajiv Gandhi Stadium,KKR Player 3
+791,2022,Kolkata,2022-04-01,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,Eden Gardens,KKR Player 3
+792,2022,Bengaluru,2022-04-02,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 3
+793,2022,Chennai,2022-04-03,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 1
+794,2022,Ahmedabad,2022-04-04,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,field,Gujarat Titans,Narendra Modi Stadium,GT Player 5
+795,2022,Chennai,2022-04-05,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 7
+796,2022,Chennai,2022-04-06,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,MA Chidambaram Stadium,KKR Player 11
+797,2022,Delhi,2022-04-07,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Arun Jaitley Stadium,MI Player 6
+798,2022,Jaipur,2022-04-08,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Sawai Mansingh Stadium,GT Player 8
+799,2022,Lucknow,2022-04-09,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,bat,Lucknow Super Giants,Ekana Stadium,LSG Player 3
+800,2022,Hyderabad,2022-04-10,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,Rajiv Gandhi Stadium,RR Player 3
+801,2022,Delhi,2022-04-11,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+802,2022,Lucknow,2022-04-12,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,field,Punjab Kings,Ekana Stadium,PK Player 6
+803,2022,Ahmedabad,2022-04-13,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,Lucknow Super Giants,Narendra Modi Stadium,LSG Player 8
+804,2022,Mohali,2022-04-14,Punjab Kings,Gujarat Titans,Punjab Kings,field,Gujarat Titans,PCA Stadium,GT Player 7
+805,2022,Mumbai,2022-04-15,Mumbai Indians,Gujarat Titans,Mumbai Indians,bat,Mumbai Indians,Wankhede Stadium,MI Player 6
+806,2022,Mumbai,2022-04-16,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,Wankhede Stadium,MI Player 2
+807,2022,Delhi,2022-04-17,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,Arun Jaitley Stadium,PK Player 9
+808,2022,Bengaluru,2022-04-18,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Punjab Kings,M Chinnaswamy Stadium,PK Player 6
+809,2022,Mumbai,2022-04-19,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,Wankhede Stadium,DC Player 8
+810,2022,Hyderabad,2022-04-20,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 6
+811,2022,Delhi,2022-04-21,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 11
+812,2022,Lucknow,2022-04-22,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,field,Kolkata Knight Riders,Ekana Stadium,KKR Player 1
+813,2022,Ahmedabad,2022-04-23,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Narendra Modi Stadium,RR Player 5
+814,2022,Mohali,2022-04-24,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,PCA Stadium,MI Player 2
+815,2022,Bengaluru,2022-04-25,Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,M Chinnaswamy Stadium,LSG Player 5
+816,2022,Lucknow,2022-04-26,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,field,Delhi Capitals,Ekana Stadium,DC Player 11
+817,2022,Mohali,2022-04-27,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 6
+818,2022,Mohali,2022-04-28,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,PCA Stadium,CSK Player 6
+819,2022,Delhi,2022-04-29,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 9
+820,2022,Delhi,2022-04-30,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,Arun Jaitley Stadium,LSG Player 3
+821,2022,Kolkata,2022-05-01,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 7
+822,2022,Mohali,2022-05-02,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,PCA Stadium,DC Player 11
+823,2022,Jaipur,2022-05-03,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 10
+824,2022,Chennai,2022-05-04,Chennai Super Kings,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,MA Chidambaram Stadium,GT Player 3
+825,2022,Mumbai,2022-05-05,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,Wankhede Stadium,SH Player 4
+826,2022,Jaipur,2022-05-06,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Kolkata Knight Riders,Sawai Mansingh Stadium,KKR Player 11
+827,2022,Hyderabad,2022-05-07,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 7
+828,2022,Bengaluru,2022-05-08,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,M Chinnaswamy Stadium,MI Player 10
+829,2022,Ahmedabad,2022-05-09,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Narendra Modi Stadium,KKR Player 5
+830,2022,Mumbai,2022-05-10,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 2
+831,2022,Lucknow,2022-05-11,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Lucknow Super Giants,Ekana Stadium,LSG Player 2
+832,2022,Jaipur,2022-05-12,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+833,2022,Kolkata,2022-05-13,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,Eden Gardens,KKR Player 8
+834,2022,Hyderabad,2022-05-14,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,Rajiv Gandhi Stadium,RCB Player 2
+835,2022,Hyderabad,2022-05-15,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Rajiv Gandhi Stadium,GT Player 6
+836,2022,Jaipur,2022-05-16,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 9
+837,2022,Lucknow,2022-05-17,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,field,Rajasthan Royals,Ekana Stadium,RR Player 10
+838,2022,Kolkata,2022-05-18,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 9
+839,2022,Chennai,2022-05-19,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 11
+840,2022,Mumbai,2022-05-20,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,Wankhede Stadium,MI Player 7
+841,2022,Bengaluru,2022-05-21,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,M Chinnaswamy Stadium,GT Player 4
+842,2022,Kolkata,2022-05-22,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,Eden Gardens,DC Player 6
+843,2022,Mumbai,2022-05-23,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,Wankhede Stadium,MI Player 3
+844,2022,Lucknow,2022-05-24,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Ekana Stadium,CSK Player 10
+845,2022,Kolkata,2022-05-25,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Eden Gardens,MI Player 2
+846,2022,Hyderabad,2022-05-26,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,Rajiv Gandhi Stadium,PK Player 2
+847,2022,Kolkata,2022-05-27,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 4
+848,2022,Mohali,2022-05-28,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,PCA Stadium,LSG Player 5
+849,2022,Jaipur,2022-05-29,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 1
+850,2022,Mumbai,2022-05-30,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 11
+851,2022,Chennai,2022-05-31,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,MA Chidambaram Stadium,RCB Player 10
+852,2022,Jaipur,2022-06-01,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+853,2022,Delhi,2022-06-02,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 1
+854,2022,Chennai,2022-06-03,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 3
+855,2022,Delhi,2022-06-04,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,Arun Jaitley Stadium,RCB Player 2
+856,2022,Jaipur,2022-06-05,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+857,2022,Ahmedabad,2022-06-06,Gujarat Titans,Punjab Kings,Gujarat Titans,field,Gujarat Titans,Narendra Modi Stadium,GT Player 7
+858,2022,Lucknow,2022-06-07,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,field,Gujarat Titans,Ekana Stadium,GT Player 4
+859,2023,Jaipur,2023-03-26,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,Sawai Mansingh Stadium,SH Player 2
+860,2023,Mohali,2023-03-27,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 10
+861,2023,Hyderabad,2023-03-28,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,Rajiv Gandhi Stadium,LSG Player 7
+862,2023,Bengaluru,2023-03-29,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 11
+863,2023,Kolkata,2023-03-30,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,Eden Gardens,MI Player 10
+864,2023,Mohali,2023-03-31,Punjab Kings,Gujarat Titans,Punjab Kings,bat,Gujarat Titans,PCA Stadium,GT Player 10
+865,2023,Lucknow,2023-04-01,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Ekana Stadium,GT Player 9
+866,2023,Ahmedabad,2023-04-02,Gujarat Titans,Mumbai Indians,Gujarat Titans,field,Mumbai Indians,Narendra Modi Stadium,MI Player 8
+867,2023,Bengaluru,2023-04-03,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,M Chinnaswamy Stadium,RR Player 4
+868,2023,Delhi,2023-04-04,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,Arun Jaitley Stadium,RCB Player 2
+869,2023,Lucknow,2023-04-05,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,bat,Lucknow Super Giants,Ekana Stadium,LSG Player 4
+870,2023,Mumbai,2023-04-06,Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 5
+871,2023,Ahmedabad,2023-04-07,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,Gujarat Titans,Narendra Modi Stadium,GT Player 6
+872,2023,Kolkata,2023-04-08,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 2
+873,2023,Mohali,2023-04-09,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,PCA Stadium,PK Player 7
+874,2023,Ahmedabad,2023-04-10,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,bat,Sunrisers Hyderabad,Narendra Modi Stadium,SH Player 2
+875,2023,Jaipur,2023-04-11,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+876,2023,Hyderabad,2023-04-12,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 1
+877,2023,Lucknow,2023-04-13,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,field,Lucknow Super Giants,Ekana Stadium,LSG Player 5
+878,2023,Ahmedabad,2023-04-14,Gujarat Titans,Rajasthan Royals,Gujarat Titans,field,Gujarat Titans,Narendra Modi Stadium,GT Player 6
+879,2023,Kolkata,2023-04-15,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 8
+880,2023,Lucknow,2023-04-16,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Lucknow Super Giants,Ekana Stadium,LSG Player 8
+881,2023,Hyderabad,2023-04-17,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 7
+882,2023,Kolkata,2023-04-18,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 6
+883,2023,Mohali,2023-04-19,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,PCA Stadium,SH Player 4
+884,2023,Hyderabad,2023-04-20,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,Rajiv Gandhi Stadium,MI Player 2
+885,2023,Delhi,2023-04-21,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 11
+886,2023,Delhi,2023-04-22,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Arun Jaitley Stadium,KKR Player 8
+887,2023,Bengaluru,2023-04-23,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 11
+888,2023,Jaipur,2023-04-24,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 9
+889,2023,Chennai,2023-04-25,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 1
+890,2023,Hyderabad,2023-04-26,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 3
+891,2023,Bengaluru,2023-04-27,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 5
+892,2023,Chennai,2023-04-28,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 1
+893,2023,Hyderabad,2023-04-29,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 5
+894,2023,Delhi,2023-04-30,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,Arun Jaitley Stadium,SH Player 7
+895,2023,Mohali,2023-05-01,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,PCA Stadium,MI Player 9
+896,2023,Jaipur,2023-05-02,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 9
+897,2023,Kolkata,2023-05-03,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,bat,Gujarat Titans,Eden Gardens,GT Player 9
+898,2023,Mumbai,2023-05-04,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,Wankhede Stadium,MI Player 2
+899,2023,Bengaluru,2023-05-05,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 3
+900,2023,Ahmedabad,2023-05-06,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,Narendra Modi Stadium,RCB Player 8
+901,2023,Ahmedabad,2023-05-07,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Gujarat Titans,Narendra Modi Stadium,GT Player 7
+902,2023,Chennai,2023-05-08,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 6
+903,2023,Mohali,2023-05-09,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,PCA Stadium,PK Player 4
+904,2023,Lucknow,2023-05-10,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Ekana Stadium,LSG Player 11
+905,2023,Delhi,2023-05-11,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 3
+906,2023,Mohali,2023-05-12,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,PCA Stadium,LSG Player 7
+907,2023,Delhi,2023-05-13,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Arun Jaitley Stadium,CSK Player 4
+908,2023,Bengaluru,2023-05-14,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 3
+909,2023,Bengaluru,2023-05-15,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,M Chinnaswamy Stadium,MI Player 3
+910,2023,Mumbai,2023-05-16,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,Wankhede Stadium,MI Player 6
+911,2023,Chennai,2023-05-17,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 4
+912,2023,Delhi,2023-05-18,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 1
+913,2023,Lucknow,2023-05-19,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,field,Royal Challengers Bengaluru,Ekana Stadium,RCB Player 7
+914,2023,Chennai,2023-05-20,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 5
+915,2023,Jaipur,2023-05-21,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 6
+916,2023,Kolkata,2023-05-22,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 8
+917,2023,Kolkata,2023-05-23,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,Eden Gardens,KKR Player 8
+918,2023,Jaipur,2023-05-24,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+919,2023,Mumbai,2023-05-25,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 4
+920,2023,Mumbai,2023-05-26,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 4
+921,2023,Chennai,2023-05-27,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 4
+922,2023,Hyderabad,2023-05-28,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,Rajiv Gandhi Stadium,GT Player 7
+923,2023,Jaipur,2023-05-29,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 1
+924,2023,Ahmedabad,2023-05-30,Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Gujarat Titans,Narendra Modi Stadium,GT Player 6
+925,2023,Delhi,2023-05-31,Delhi Capitals,Gujarat Titans,Delhi Capitals,field,Gujarat Titans,Arun Jaitley Stadium,GT Player 8
+926,2023,Delhi,2023-06-01,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 8
+927,2023,Mumbai,2023-06-02,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,Wankhede Stadium,MI Player 6
+928,2023,Ahmedabad,2023-06-03,Gujarat Titans,Punjab Kings,Gujarat Titans,field,Punjab Kings,Narendra Modi Stadium,PK Player 8
+929,2023,Kolkata,2023-06-04,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,field,Kolkata Knight Riders,Eden Gardens,KKR Player 11
+930,2023,Chennai,2023-06-05,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,MA Chidambaram Stadium,RR Player 1
+931,2023,Jaipur,2023-06-06,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 3
+932,2023,Mumbai,2023-06-07,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Wankhede Stadium,RCB Player 6
+933,2024,Bengaluru,2024-03-26,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,M Chinnaswamy Stadium,GT Player 4
+934,2024,Ahmedabad,2024-03-27,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,bat,Gujarat Titans,Narendra Modi Stadium,GT Player 7
+935,2024,Kolkata,2024-03-28,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,Eden Gardens,CSK Player 2
+936,2024,Hyderabad,2024-03-29,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 3
+937,2024,Mumbai,2024-03-30,Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Gujarat Titans,Wankhede Stadium,GT Player 5
+938,2024,Ahmedabad,2024-03-31,Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Gujarat Titans,Narendra Modi Stadium,GT Player 9
+939,2024,Delhi,2024-04-01,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,Arun Jaitley Stadium,MI Player 4
+940,2024,Lucknow,2024-04-02,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Ekana Stadium,CSK Player 10
+941,2024,Lucknow,2024-04-03,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Ekana Stadium,GT Player 5
+942,2024,Jaipur,2024-04-04,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,Sawai Mansingh Stadium,MI Player 5
+943,2024,Mohali,2024-04-05,Punjab Kings,Gujarat Titans,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 11
+944,2024,Hyderabad,2024-04-06,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 1
+945,2024,Hyderabad,2024-04-07,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,Rajiv Gandhi Stadium,PK Player 11
+946,2024,Delhi,2024-04-08,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 4
+947,2024,Chennai,2024-04-09,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,MA Chidambaram Stadium,SH Player 9
+948,2024,Ahmedabad,2024-04-10,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Gujarat Titans,Narendra Modi Stadium,GT Player 4
+949,2024,Hyderabad,2024-04-11,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 11
+950,2024,Bengaluru,2024-04-12,Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,bat,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 4
+951,2024,Chennai,2024-04-13,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 9
+952,2024,Bengaluru,2024-04-14,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,Mumbai Indians,M Chinnaswamy Stadium,MI Player 11
+953,2024,Hyderabad,2024-04-15,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 6
+954,2024,Mohali,2024-04-16,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,PCA Stadium,RCB Player 6
+955,2024,Kolkata,2024-04-17,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,Eden Gardens,PK Player 11
+956,2024,Ahmedabad,2024-04-18,Gujarat Titans,Mumbai Indians,Gujarat Titans,field,Gujarat Titans,Narendra Modi Stadium,GT Player 11
+957,2024,Mohali,2024-04-19,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,PCA Stadium,CSK Player 11
+958,2024,Bengaluru,2024-04-20,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,M Chinnaswamy Stadium,SH Player 4
+959,2024,Delhi,2024-04-21,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,bat,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+960,2024,Mohali,2024-04-22,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 11
+961,2024,Hyderabad,2024-04-23,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 9
+962,2024,Hyderabad,2024-04-24,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,bat,Sunrisers Hyderabad,Rajiv Gandhi Stadium,SH Player 2
+963,2024,Ahmedabad,2024-04-25,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,bat,Gujarat Titans,Narendra Modi Stadium,GT Player 4
+964,2024,Mumbai,2024-04-26,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 4
+965,2024,Chennai,2024-04-27,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 2
+966,2024,Mumbai,2024-04-28,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,Wankhede Stadium,MI Player 9
+967,2024,Ahmedabad,2024-04-29,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,Gujarat Titans,Narendra Modi Stadium,GT Player 8
+968,2024,Jaipur,2024-04-30,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,Sawai Mansingh Stadium,PK Player 5
+969,2024,Lucknow,2024-05-01,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,field,Lucknow Super Giants,Ekana Stadium,LSG Player 1
+970,2024,Hyderabad,2024-05-02,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Rajiv Gandhi Stadium,KKR Player 6
+971,2024,Delhi,2024-05-03,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 10
+972,2024,Hyderabad,2024-05-04,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,Rajiv Gandhi Stadium,RCB Player 7
+973,2024,Mumbai,2024-05-05,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Mumbai Indians,Wankhede Stadium,MI Player 5
+974,2024,Kolkata,2024-05-06,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,bat,Kolkata Knight Riders,Eden Gardens,KKR Player 10
+975,2024,Lucknow,2024-05-07,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,field,Punjab Kings,Ekana Stadium,PK Player 8
+976,2024,Kolkata,2024-05-08,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Royal Challengers Bengaluru,Eden Gardens,RCB Player 8
+977,2024,Jaipur,2024-05-09,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 10
+978,2024,Ahmedabad,2024-05-10,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,field,Gujarat Titans,Narendra Modi Stadium,GT Player 4
+979,2024,Lucknow,2024-05-11,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Ekana Stadium,RR Player 6
+980,2024,Kolkata,2024-05-12,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,Eden Gardens,MI Player 4
+981,2024,Mohali,2024-05-13,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,PCA Stadium,RR Player 8
+982,2024,Jaipur,2024-05-14,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 5
+983,2024,Mumbai,2024-05-15,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,Wankhede Stadium,MI Player 8
+984,2024,Mohali,2024-05-16,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,PCA Stadium,LSG Player 5
+985,2024,Delhi,2024-05-17,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Arun Jaitley Stadium,RCB Player 1
+986,2024,Mumbai,2024-05-18,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,Wankhede Stadium,MI Player 9
+987,2024,Delhi,2024-05-19,Delhi Capitals,Gujarat Titans,Delhi Capitals,field,Gujarat Titans,Arun Jaitley Stadium,GT Player 4
+988,2024,Bengaluru,2024-05-20,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 9
+989,2024,Lucknow,2024-05-21,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Lucknow Super Giants,Ekana Stadium,LSG Player 5
+990,2024,Jaipur,2024-05-22,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,Sawai Mansingh Stadium,RR Player 7
+991,2024,Bengaluru,2024-05-23,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bengaluru,M Chinnaswamy Stadium,RCB Player 11
+992,2024,Lucknow,2024-05-24,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,field,Delhi Capitals,Ekana Stadium,DC Player 7
+993,2024,Bengaluru,2024-05-25,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,M Chinnaswamy Stadium,DC Player 6
+994,2024,Ahmedabad,2024-05-26,Gujarat Titans,Punjab Kings,Gujarat Titans,field,Gujarat Titans,Narendra Modi Stadium,GT Player 11
+995,2024,Mumbai,2024-05-27,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Wankhede Stadium,RR Player 9
+996,2024,Jaipur,2024-05-28,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Gujarat Titans,Sawai Mansingh Stadium,GT Player 1
+997,2024,Mohali,2024-05-29,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,PCA Stadium,MI Player 11
+998,2024,Chennai,2024-05-30,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 7
+999,2024,Kolkata,2024-05-31,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,Eden Gardens,DC Player 1
+1000,2024,Chennai,2024-06-01,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,MA Chidambaram Stadium,DC Player 9
+1001,2024,Mohali,2024-06-02,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,PCA Stadium,PK Player 9
+1002,2024,Chennai,2024-06-03,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Chennai Super Kings,MA Chidambaram Stadium,CSK Player 7
+1003,2024,Kolkata,2024-06-04,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Eden Gardens,GT Player 8
+1004,2024,Delhi,2024-06-05,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,Arun Jaitley Stadium,PK Player 7
+1005,2024,Delhi,2024-06-06,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,Arun Jaitley Stadium,DC Player 5
+1006,2024,Kolkata,2024-06-07,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Eden Gardens,KKR Player 3
